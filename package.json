@@ -23,6 +23,7 @@
         "karma-mocha": "~0.1",
         "karma-expect": "~0.1",
         "karma-phantomjs-launcher": "~0.1.1",
+        "load-grunt-tasks": "~0.2.0",
         "grunt-auto-release": "~0.0.2",
         "grunt-bump": "~0.0.7",
         "grunt-npm": "~0.0.2"
