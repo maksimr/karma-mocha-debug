@@ -9,7 +9,7 @@ The easiest way is to keep `karma-mocha-debug` as a devDependency in your `packa
 {
   "devDependencies": {
     "karma": "~0.10",
-    "karma-mocha": "~0.1"
+    "karma-mocha": "~0.1",
     "karma-mocha-debug": "~0.1"
   }
 }
