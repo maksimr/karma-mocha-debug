@@ -1,3 +1,6 @@
+# DEPRECATED!!! USE [karma-mocha](https://github.com/karma-runner/karma-mocha)
+
+
 # karma-mocha-debug
 
 > Improve [karma-mocha](https://github.com/karma-runner/karma-mocha) plugin
